@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @thewanrandiv
-- 👀 I’m interested in  programming
-- 🌱 I’m currently learning web dev and java,sql,c++
 - 📫 Reach me on instagram @thewan_randiv
 
 <!---
